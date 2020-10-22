@@ -1,0 +1,11 @@
+C:\codebitacademyfolder\C#\Lab Task 4\MethodDeeperLook\bin\Debug\netcoreapp3.1\MethodDeeperLook.exe
+C:\codebitacademyfolder\C#\Lab Task 4\MethodDeeperLook\bin\Debug\netcoreapp3.1\MethodDeeperLook.deps.json
+C:\codebitacademyfolder\C#\Lab Task 4\MethodDeeperLook\bin\Debug\netcoreapp3.1\MethodDeeperLook.runtimeconfig.json
+C:\codebitacademyfolder\C#\Lab Task 4\MethodDeeperLook\bin\Debug\netcoreapp3.1\MethodDeeperLook.runtimeconfig.dev.json
+C:\codebitacademyfolder\C#\Lab Task 4\MethodDeeperLook\bin\Debug\netcoreapp3.1\MethodDeeperLook.dll
+C:\codebitacademyfolder\C#\Lab Task 4\MethodDeeperLook\bin\Debug\netcoreapp3.1\MethodDeeperLook.pdb
+C:\codebitacademyfolder\C#\Lab Task 4\MethodDeeperLook\obj\Debug\netcoreapp3.1\MethodDeeperLook.csprojAssemblyReference.cache
+C:\codebitacademyfolder\C#\Lab Task 4\MethodDeeperLook\obj\Debug\netcoreapp3.1\MethodDeeperLook.AssemblyInfoInputs.cache
+C:\codebitacademyfolder\C#\Lab Task 4\MethodDeeperLook\obj\Debug\netcoreapp3.1\MethodDeeperLook.AssemblyInfo.cs
+C:\codebitacademyfolder\C#\Lab Task 4\MethodDeeperLook\obj\Debug\netcoreapp3.1\MethodDeeperLook.dll
+C:\codebitacademyfolder\C#\Lab Task 4\MethodDeeperLook\obj\Debug\netcoreapp3.1\MethodDeeperLook.pdb

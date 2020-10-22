@@ -1,0 +1,11 @@
+C:\codebitacademyfolder\C#\Lab Task 4\MultipleNumber\obj\Debug\netcoreapp3.1\MultipleNumber.csprojAssemblyReference.cache
+C:\codebitacademyfolder\C#\Lab Task 4\MultipleNumber\obj\Debug\netcoreapp3.1\MultipleNumber.AssemblyInfoInputs.cache
+C:\codebitacademyfolder\C#\Lab Task 4\MultipleNumber\obj\Debug\netcoreapp3.1\MultipleNumber.AssemblyInfo.cs
+C:\codebitacademyfolder\C#\Lab Task 4\MultipleNumber\bin\Debug\netcoreapp3.1\MultipleNumber.exe
+C:\codebitacademyfolder\C#\Lab Task 4\MultipleNumber\bin\Debug\netcoreapp3.1\MultipleNumber.deps.json
+C:\codebitacademyfolder\C#\Lab Task 4\MultipleNumber\bin\Debug\netcoreapp3.1\MultipleNumber.runtimeconfig.json
+C:\codebitacademyfolder\C#\Lab Task 4\MultipleNumber\bin\Debug\netcoreapp3.1\MultipleNumber.runtimeconfig.dev.json
+C:\codebitacademyfolder\C#\Lab Task 4\MultipleNumber\bin\Debug\netcoreapp3.1\MultipleNumber.dll
+C:\codebitacademyfolder\C#\Lab Task 4\MultipleNumber\bin\Debug\netcoreapp3.1\MultipleNumber.pdb
+C:\codebitacademyfolder\C#\Lab Task 4\MultipleNumber\obj\Debug\netcoreapp3.1\MultipleNumber.dll
+C:\codebitacademyfolder\C#\Lab Task 4\MultipleNumber\obj\Debug\netcoreapp3.1\MultipleNumber.pdb

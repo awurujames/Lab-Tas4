@@ -1,0 +1,11 @@
+C:\codebitacademyfolder\C#\Lab Task 4\MethodDeeperLook\MinimumNumber\bin\Debug\netcoreapp3.1\MinimumNumber.exe
+C:\codebitacademyfolder\C#\Lab Task 4\MethodDeeperLook\MinimumNumber\bin\Debug\netcoreapp3.1\MinimumNumber.deps.json
+C:\codebitacademyfolder\C#\Lab Task 4\MethodDeeperLook\MinimumNumber\bin\Debug\netcoreapp3.1\MinimumNumber.runtimeconfig.json
+C:\codebitacademyfolder\C#\Lab Task 4\MethodDeeperLook\MinimumNumber\bin\Debug\netcoreapp3.1\MinimumNumber.runtimeconfig.dev.json
+C:\codebitacademyfolder\C#\Lab Task 4\MethodDeeperLook\MinimumNumber\bin\Debug\netcoreapp3.1\MinimumNumber.dll
+C:\codebitacademyfolder\C#\Lab Task 4\MethodDeeperLook\MinimumNumber\bin\Debug\netcoreapp3.1\MinimumNumber.pdb
+C:\codebitacademyfolder\C#\Lab Task 4\MethodDeeperLook\MinimumNumber\obj\Debug\netcoreapp3.1\MinimumNumber.csprojAssemblyReference.cache
+C:\codebitacademyfolder\C#\Lab Task 4\MethodDeeperLook\MinimumNumber\obj\Debug\netcoreapp3.1\MinimumNumber.AssemblyInfoInputs.cache
+C:\codebitacademyfolder\C#\Lab Task 4\MethodDeeperLook\MinimumNumber\obj\Debug\netcoreapp3.1\MinimumNumber.AssemblyInfo.cs
+C:\codebitacademyfolder\C#\Lab Task 4\MethodDeeperLook\MinimumNumber\obj\Debug\netcoreapp3.1\MinimumNumber.dll
+C:\codebitacademyfolder\C#\Lab Task 4\MethodDeeperLook\MinimumNumber\obj\Debug\netcoreapp3.1\MinimumNumber.pdb

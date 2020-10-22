@@ -1,0 +1,11 @@
+C:\codebitacademyfolder\C#\Lab Task 4\MyHypothenus\bin\Debug\netcoreapp3.1\MyHypothenus.exe
+C:\codebitacademyfolder\C#\Lab Task 4\MyHypothenus\bin\Debug\netcoreapp3.1\MyHypothenus.deps.json
+C:\codebitacademyfolder\C#\Lab Task 4\MyHypothenus\bin\Debug\netcoreapp3.1\MyHypothenus.runtimeconfig.json
+C:\codebitacademyfolder\C#\Lab Task 4\MyHypothenus\bin\Debug\netcoreapp3.1\MyHypothenus.runtimeconfig.dev.json
+C:\codebitacademyfolder\C#\Lab Task 4\MyHypothenus\bin\Debug\netcoreapp3.1\MyHypothenus.dll
+C:\codebitacademyfolder\C#\Lab Task 4\MyHypothenus\bin\Debug\netcoreapp3.1\MyHypothenus.pdb
+C:\codebitacademyfolder\C#\Lab Task 4\MyHypothenus\obj\Debug\netcoreapp3.1\MyHypothenus.csprojAssemblyReference.cache
+C:\codebitacademyfolder\C#\Lab Task 4\MyHypothenus\obj\Debug\netcoreapp3.1\MyHypothenus.AssemblyInfoInputs.cache
+C:\codebitacademyfolder\C#\Lab Task 4\MyHypothenus\obj\Debug\netcoreapp3.1\MyHypothenus.AssemblyInfo.cs
+C:\codebitacademyfolder\C#\Lab Task 4\MyHypothenus\obj\Debug\netcoreapp3.1\MyHypothenus.dll
+C:\codebitacademyfolder\C#\Lab Task 4\MyHypothenus\obj\Debug\netcoreapp3.1\MyHypothenus.pdb
